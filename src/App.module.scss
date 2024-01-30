@@ -1,0 +1,26 @@
+.all :root{
+    font-size: 0.625%;
+}
+.background_modal {
+    background-color: black;
+    opacity: 50%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.modal{
+    background-color: white;
+    position: absolute;
+    left: 550px;
+    top: 250px;
+    padding: 50px;
+}
+
+.button{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+}
